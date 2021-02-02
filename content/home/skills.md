@@ -9,26 +9,50 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Top Skills
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
+- description: 95%
+  icon: python
   icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
+  name: Python
+- description: 92%
   icon: camera-retro
   icon_pack: fas
-  name: Photography
-
+  name: Django
+- description: 86%
+  icon: camera-retro
+  icon_pack: fas
+  name: Postgres
+- description: 82%
+  icon: camera-retro
+  icon_pack: fas
+  name: VueJS
+- description: 73%
+  icon: camera-retro
+  icon_pack: fas
+  name: TailwindCSS
+- description: 70%
+  icon: camera-retro
+  icon_pack: fas
+  name: Google Cloud
+- description: 96%
+  icon: camera-retro
+  icon_pack: fas
+  name: Web Scraping
+- description: 81%
+  icon: camera-retro
+  icon_pack: fas
+  name: Automation Scripts
+- description: 99%
+  icon: camera-retro
+  icon_pack: fas
+  name: API Integration
+  
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

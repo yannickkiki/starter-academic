@@ -22,24 +22,44 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+
+  - title: Software Engineer
+    company: Trellix
+    company_url: 'https://trellix.io/'
+    location: Cotonou
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
-    company_url: ''
+    date_start: '2019-12-02'
+    description: Describe my experience at Trellix
+    
+  - title: Software Engineering Intern
+    company: Beans
+    company_url: 'https://www.trybeans.com/'
     location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_end: '2019-11-08'
+    date_start: '2019-05-06'
+    description: Describe my experience at Beans
+  
+  - title: Tech lead
+    company: CECEONAT
+    company_url: ''
+    location: Cotonou
+    date_end: '2018-11-18'
+    date_start: '2018-05-07'
+    description:  Describe my experience at CECEONAT.
+
+  - title: Full-Stack Web Developer
+    company: IITECH
+    company_url: 'https://iitech-benin.net/'
+    location: Abomey-Calavi
+    date_end: '2018-05-05'
+    date_start: '2018-03-26'
+    description: Describe my experience at IITECH
+    
+  - title: Intern in Aviation Telecommunications
+    company: ASECNA
+    company_url: 'https://anac.bj/agence-pour-la-securite-de-la-navigation-aerienne-asecna'
+    location: Cotonou
+    date_end: '2017-12-30'
+    date_start: '2017-11-01'
+    description: Describe my experience at ASECNA.
 ---
