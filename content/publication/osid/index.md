@@ -1,0 +1,79 @@
+---
+title: "Prediction of the Purchase Intention of Users on E-Commerce Platforms using Gradient Boosting"
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# and it will be replaced with their full name and linked to their profile.
+authors:
+- admin
+- Vinasétan Ratheil Houndji
+
+# Author notes (optional)
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+
+date: "2020-10-30T00:00:00Z"
+doi: ""
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2020-10-30T00:00:00Z"
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["2"]
+
+# Publication name and optional abbreviated publication name.
+publication: In *International Journal of Engineering and Advanced Technology*
+publication_short: In *IJEAT*
+
+abstract: In this paper, we propose a system that is able to forecast the purchase intention of users visiting e-commerce platforms from data collected as they browse on these websites.We use the Online Shoppers Purchasing Intention Dataset available at the University of California Irvine Machine Learning Repository. Thanks to some feature engineering methods, we deeply study the correlation between the various information. We also derive new information / features from the dataset by inference. The most relevant data is fed to gradient boosting, artificial neural networks and other algorithms in order to forecast whether or not a user intends to make a purchase. We evaluate the performances with the precision metric and the F1- Score. The experiments show that our gradient boosting model performs better than the state-of-the-art models thanks to the new features used. This also confirms that, in addition to being interpretable, some classic machine learning models such as gradient boosting can be very competitive compared to neural networks. This system thus conceived can allow e-commerce platforms to identify users intending to make a purchase. This gives them the possibility of offering personalized solutions to their potential customers in order to better attract them and guarantee their purchase, which will imply increased sales and better customer satisfaction.
+
+# Summary. An optional shortened abstract.
+summary: In this paper, we propose a system that is able to forecast the purchase intention of users visiting e-commerce platforms from data collected as they browse on these websites.
+
+tags:
+- E-commerce
+- Machine learning
+
+# Display this page in the Featured widget?
+featured: true
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+# - example
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides:
+---
