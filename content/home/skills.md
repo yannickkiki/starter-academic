@@ -16,41 +16,36 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 95%
-  icon: python
-  icon_pack: fab
+- icon: python
+  icon_pack: custom
   name: Python
-- description: 92%
-  icon: camera-retro
-  icon_pack: fas
+#  description: 100%  
+- icon: django
+  icon_pack: custom
   name: Django
-- description: 86%
-  icon: camera-retro
-  icon_pack: fas
+- icon: postgres
+  icon_pack: custom
   name: Postgres
-- description: 82%
-  icon: camera-retro
-  icon_pack: fas
-  name: VueJS
-- description: 73%
-  icon: camera-retro
-  icon_pack: fas
-  name: TailwindCSS
-- description: 70%
-  icon: camera-retro
-  icon_pack: fas
-  name: Google Cloud
-- description: 96%
-  icon: camera-retro
-  icon_pack: fas
-  name: Web Scraping
-- description: 81%
-  icon: camera-retro
-  icon_pack: fas
-  name: Automation Scripts
-- description: 99%
-  icon: camera-retro
-  icon_pack: fas
+#- icon: camera-retro
+#  icon_pack: fas
+#  name: VueJS
+#- icon: camera-retro
+#  icon_pack: fas
+#  name: TailwindCSS
+#- description: 70%
+#  icon: camera-retro
+#  icon_pack: fas
+#  name: Google Cloud
+#- description: 96%
+#  icon: camera-retro
+#  icon_pack: fas
+#  name: Web Scraping
+#- description: 81%
+#  icon: camera-retro
+#  icon_pack: fas
+#  name: Automation Scripts
+- icon: api
+  icon_pack: custom
   name: API Integration
   
 # Uncomment to use emoji icons.
@@ -62,8 +57,4 @@ feature:
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-#- icon: "your-custom-icon-name"
-#  icon_pack: "custom"
-#  name: "Surfing"
-#  description: "90%"
 ---

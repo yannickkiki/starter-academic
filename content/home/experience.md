@@ -31,13 +31,13 @@ experience:
     date_start: '2019-12-02'
     description: Describe my experience at Trellix
     
-  - title: Software Engineering Intern
-    company: Beans
-    company_url: 'https://www.trybeans.com/'
-    location: California
+  - title: Software Engineer Intern
+    company: Trellix
+    company_url: 'https://trellix.io/'
+    location: Cotonou
     date_end: '2019-11-08'
     date_start: '2019-05-06'
-    description: Describe my experience at Beans
+    description: Describe my experience at Trellix as an Intern
   
   - title: Tech lead
     company: CECEONAT
@@ -47,7 +47,7 @@ experience:
     date_start: '2018-05-07'
     description:  Describe my experience at CECEONAT.
 
-  - title: Full-Stack Web Developer
+  - title: Web Developer Intern
     company: IITECH
     company_url: 'https://iitech-benin.net/'
     location: Abomey-Calavi
