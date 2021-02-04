@@ -2,7 +2,7 @@
 title: Web Scraping of french-fongbe sentences translations
 
 event: Learn with Trellix
-event_url: https://trellix.io
+event_url: https://www.trellix.io
 
 # location: Wowchemy HQ
 # address:
@@ -13,7 +13,7 @@ event_url: https://trellix.io
 #  country: United States
 
 summary: We are going to write a Python script to browse the web to collect sentences in the Fongbe language and their French translation in order to create a French-fongbe Translator.
-abstract: "We are going to write a Python script to browse the web to collect sentences in the Fongbe language and their French translation in order to create a French-fongbe Translator."
+abstract: "In order to make a kind of Google Translate Francais-Fongbe, we need well-structured data of Fongbe sentences and their French translation to train our artificial intelligence. Since we do not have such data, we are planning to do <a href='https://www.parsehub.com/blog/what-is-web-scraping/' target='_blank'>Web Scraping</a> to collect it. In this session, we will write a Python script that will browse the web to collect Fongbe language sentences and their French translation."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
