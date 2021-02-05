@@ -3,7 +3,7 @@ title: Online Shoppers Intent
 subtitle: How I designed an artificial intelligence that can predict the purchase intention of users on e-commerce platforms.
 
 # Summary for listings and search engines
-summary: Online Shoppers Intent.
+summary: Design of an artificial intelligence that can predict the purchase intention of users on e-commerce platforms.
 
 # Link this post with a project
 projects: []

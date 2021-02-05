@@ -56,8 +56,8 @@ social:
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
 # - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+#  icon_pack: ai
+#  link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "seyive.kiki@gmail.com"
@@ -67,11 +67,13 @@ highlight_name: false
 ---
 
 I'm Yannick KIKI and i'm software engineer. I work as Backend Developer at 
-[Trellix](https://trellix.io).
+[Trellix](https://www.trellix.io). You can explore this website to learn more about me or you can check 
+my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
 
 [comment]: <> (Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His )
 [comment]: <> (research interests include distributed robotics, mobile computing and programmable matter. He )
 [comment]: <> (leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of )
 [comment]: <> (self-organizing robots, and mobile sensor networks.)
 [comment]: <> ({{< icon name="download" pack="fas" >}} Download my)
-[comment]: <> ({{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.)
+
+

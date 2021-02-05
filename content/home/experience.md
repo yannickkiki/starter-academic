@@ -29,23 +29,29 @@ experience:
     location: Cotonou
     date_end: ''
     date_start: '2019-12-02'
-    description: Describe my experience at Trellix
-    
+    description: |2- 
+      * Automation of targeted business emails and campaigns sending for e-commerce stores.
+      * Automation of social media management for e-commerce stores.
+      * Third parties APIs integrations.
+      * Dispatching of architecture in micro-services.
+  
   - title: Software Engineer Intern
     company: Trellix
     company_url: 'https://trellix.io/'
     location: Cotonou
     date_end: '2019-11-08'
     date_start: '2019-05-06'
-    description: Describe my experience at Trellix as an Intern
+    description: |2- 
+      * Write technical documentation for internal apis
+      * Implementation of tools to automate time-consuming tasks
   
-  - title: Tech lead
-    company: CECEONAT
-    company_url: ''
-    location: Cotonou
-    date_end: '2018-11-18'
-    date_start: '2018-05-07'
-    description:  Describe my experience at CECEONAT.
+#  - title: Tech lead
+#    company: CECEONAT
+#    company_url: ''
+#    location: Cotonou
+#    date_end: '2018-11-18'
+#    date_start: '2018-05-07'
+#    description: Describe my experience at CECEONAT.
 
   - title: Web Developer Intern
     company: IITECH
@@ -53,7 +59,7 @@ experience:
     location: Abomey-Calavi
     date_end: '2018-05-05'
     date_start: '2018-03-26'
-    description: Describe my experience at IITECH
+    description: Make a remote video surveillance system for school exams.
     
   - title: Intern in Aviation Telecommunications
     company: ASECNA
@@ -61,5 +67,5 @@ experience:
     location: Cotonou
     date_end: '2017-12-30'
     date_start: '2017-11-01'
-    description: Describe my experience at ASECNA.
+    description: Maintenance of air navigation aid equipment.
 ---
