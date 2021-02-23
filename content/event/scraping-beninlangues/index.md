@@ -13,11 +13,13 @@ event_url: https://www.trellix.io
 #  country: United States
 
 summary: We are going to write a Python script to browse the web to collect sentences in the Fongbe language and their French translation in order to create a French-fongbe Translator.
-abstract: "In order to make a kind of Google Translate Francais-Fongbe, we need well-structured data of Fongbe sentences and their French translation to train our artificial intelligence. Since we do not have such data, we are planning to do <a href='https://www.parsehub.com/blog/what-is-web-scraping/' target='_blank'>Web Scraping</a> to collect it. In this session, we will write a Python script that will browse the web to collect Fongbe language sentences and their French translation."
+abstract: "Dans cette session, nous allons écrire un script Python qui naviguera sur le Web afin d'en extraire de manière automatisée des phrases en langue Fongbe et leur traduction en français.<br>
+En effet, nous avons pour but de créer un traducteur Francais-Fongbe (un peu comme Google Translate), et pour ce faire, nous avons besoin de données bien structurées de phrases Fongbe et de leur traduction en Français pour entraîner notre système.<br>
+Notre rôle ici est donc de çoncevoir un outil qui nous permettra d'obtenir ces données."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-02-10T16:00:00Z"
+date: "2021-02-10T15:00:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
