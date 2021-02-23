@@ -66,7 +66,7 @@ email: "seyive.kiki@gmail.com"
 highlight_name: false
 ---
 
-I'm Yannick KIKI and i'm software engineer. I work as Backend Developer at 
+I'm Yannick KIKI and I'm a software engineer. I work as a Backend Developer at 
 [Trellix](https://www.trellix.io). You can explore this website to learn more about me or you can check 
 my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
 
