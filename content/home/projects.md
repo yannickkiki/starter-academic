@@ -10,7 +10,7 @@ headless: true
 weight: 60
 
 title: Projects
-subtitle: 'Here are some projects that I am currently working on or on which I have worked (alone or in a team).'
+subtitle: 'Here are some projects I have worked on.'
 
 content:
   # Page type to display. E.g. project.

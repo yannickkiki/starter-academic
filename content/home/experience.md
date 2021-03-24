@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
 
   - title: Software Engineer
-    company: Trellix
+    company: Trellix (ex Beans)
     company_url: 'https://trellix.io/'
     location: Cotonou
     date_end: ''
@@ -36,7 +36,7 @@ experience:
       * Dispatching of architecture in micro-services.
   
   - title: Software Engineer Intern
-    company: Trellix
+    company: Trellix (ex Beans)
     company_url: 'https://trellix.io/'
     location: Cotonou
     date_end: '2019-11-08'
