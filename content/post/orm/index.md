@@ -3,7 +3,7 @@ title: How I built a simple ORM from scratch in Python
 subtitle: Build your own software systems to better understand existing ones, their strenghts and limits.
 
 # Summary for listings and search engines
-summary: Build a simple ORM from scratch in Python.
+summary: Build your own ORM from scratch to better understand existing ones, their strenghts and limits.
 
 # Link this post with a project
 projects: []
@@ -42,7 +42,6 @@ categories:
 ---
 
 This article has been written on Medium.
+
 You can access it using this 
 [link](https://yannick-kiki.medium.com/how-i-built-a-simple-orm-from-scratch-in-python-18b50108cfa3).
-
-Thanks!

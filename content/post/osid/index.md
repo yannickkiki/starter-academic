@@ -39,7 +39,6 @@ categories:
 ---
 
 This article has been written on Coda.
+
 You can access it using this 
 [link](https://coda.io/d/Online-Shoppers-Intent_dE7mg-ADsi7/).
-
-Thanks!
