@@ -1,18 +1,18 @@
 ---
-title: Online Shoppers Intent
-subtitle: How I designed an artificial intelligence that can predict the purchase intention of users on e-commerce platforms.
+title: How I built a simple ORM from scratch in Python
+subtitle: Build your own software systems to better understand existing ones, their strenghts and limits.
 
 # Summary for listings and search engines
-summary: Design of an artificial intelligence that can predict the purchase intention of users on e-commerce platforms.
+summary: Build a simple ORM from scratch in Python.
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2019-07-18T00:00:00Z"
+date: "2021-04-04T13:31:00Z"
 
 # Date updated
-lastmod: "2020-01-25T11:18:00Z"
+lastmod: "2021-04-04T13:31:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -32,14 +32,17 @@ authors:
 - admin
 
 tags:
-- Artificial Intelligence
+- Python
+- Database
+- Open Source
+- Orm
 
 categories:
-- Machine Learning
+- Software Engineering
 ---
 
-This article has been written on Coda.
+This article has been written on Medium.
 You can access it using this 
-[link](https://coda.io/d/Online-Shoppers-Intent_dE7mg-ADsi7/).
+[link](https://yannick-kiki.medium.com/how-i-built-a-simple-orm-from-scratch-in-python-18b50108cfa3).
 
 Thanks!

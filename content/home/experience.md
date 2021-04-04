@@ -33,7 +33,6 @@ experience:
       * Automation of targeted business emails and campaigns sending for e-commerce stores.
       * Automation of social media management for e-commerce stores.
       * Third parties APIs integrations.
-      * Dispatching of architecture in micro-services.
   
   - title: Software Engineer Intern
     company: Trellix (ex Beans)
