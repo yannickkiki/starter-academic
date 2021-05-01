@@ -15,17 +15,17 @@
 
 [[main]]
   name = "Blog"
-  url = "/post"
+  url = "post/"
   weight = 30
 
 [[main]]
   name = "Portfolio"
-  url = "/portfolio"
+  url = "portfolio/"
   weight = 35
 
 [[main]]
   name = "Events"
-  url = "/event"
+  url = "event/"
   weight = 40
 
 #[[main]]
