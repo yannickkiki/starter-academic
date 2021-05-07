@@ -67,8 +67,10 @@ highlight_name: false
 ---
 
 I'm Yannick KIKI and I'm a software engineer. I work as a Backend Developer at 
-[Trellix](https://www.trellix.io). You can explore this website to learn more about me or you can check 
-my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+[Trellix](https://www.trellix.io). You can explore this website to learn more about me. My portfolio is 
+available [here](https://www.notion.so/Portfolio-95cfc60c41a840baaf34e0b73adcef95).
+
+[comment]: <> (my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.)
 
 [comment]: <> (Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His )
 [comment]: <> (research interests include distributed robotics, mobile computing and programmable matter. He )

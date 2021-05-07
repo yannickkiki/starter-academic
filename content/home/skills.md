@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Top Skills
+title: Frequently used tools
 subtitle:
 
 # Showcase personal skills or business features.
@@ -44,9 +44,9 @@ feature:
 #  icon: camera-retro
 #  icon_pack: fas
 #  name: Automation Scripts
-- icon: api
-  icon_pack: custom
-  name: API Integration
+# - icon: api
+#   icon_pack: custom
+#   name: API Integration
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

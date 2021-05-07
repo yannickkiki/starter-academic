@@ -41,8 +41,8 @@ experience:
     date_end: '2019-11-08'
     date_start: '2019-05-06'
     description: |2- 
-      * Write technical documentation for internal apis
-      * Implementation of tools to automate time-consuming tasks
+      * Wrote technical documentation for internal apis
+      * Implemented tools to automate time-consuming tasks
   
 #  - title: Tech lead
 #    company: CECEONAT
@@ -58,7 +58,7 @@ experience:
     location: Abomey-Calavi
     date_end: '2018-05-05'
     date_start: '2018-03-26'
-    description: Make a remote video surveillance system for school exams.
+    description: Built a remote video surveillance system for school exams.
     
   - title: Intern in Aviation Telecommunications
     company: ASECNA
