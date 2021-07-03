@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Frequently used tools
+title: Frequently used technos
 subtitle:
 
 # Showcase personal skills or business features.
@@ -26,6 +26,12 @@ feature:
 - icon: postgres
   icon_pack: custom
   name: Postgres
+- icon: api
+  icon_pack: custom
+  name: Rest APIs
+- icon: aws
+  icon_pack: custom
+  name: AWS
 #- icon: camera-retro
 #  icon_pack: fas
 #  name: VueJS
