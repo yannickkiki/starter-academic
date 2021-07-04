@@ -29,6 +29,9 @@ feature:
 - icon: api
   icon_pack: custom
   name: Rest APIs
+- icon: docker
+  icon_pack: custom
+  name: Docker
 - icon: aws
   icon_pack: custom
   name: AWS
