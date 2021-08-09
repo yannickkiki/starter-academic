@@ -19,7 +19,7 @@ to prepare for the ICPC competition. This competition took place over several da
 with teams from the West African sub-region. It was very tight but we were able to take 
 the first place and I think it's one of the best memories of my student journey.
 
-![Win message screenshot](https://pbs.twimg.com/media/D5zxdp8X4AADd2k?format=jpg&name=large).
+![Win message screenshot](https://pbs.twimg.com/media/D5zxdp8X4AADd2k?format=jpg&name=medium).
 "
 
 # Talk start and end times.

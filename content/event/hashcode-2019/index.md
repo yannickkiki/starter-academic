@@ -13,7 +13,7 @@ event_url: https://codingcompetitions.withgoogle.com/hashcode/
 #  country: United States
 
 summary: First in our country for Google Hashcode 2019
-abstract: "{{< staticref "media/hash_code_2019_judge_system.jpeg" "newtab" >}}"
+abstract: "![Hashcode Judge System](https://pbs.twimg.com/media/D1Su1YaXcAAeTuT?format=jpg&name=medium)"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
