@@ -24,12 +24,12 @@ the first place and I think it's one of the best memories of my student journey.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: ""
+date: "2019-05-04T08:00:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: ""
+publishDate: "2019-05-10T13:00:00Z"
 
 authors: []
 tags: []

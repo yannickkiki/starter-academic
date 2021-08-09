@@ -1,8 +1,8 @@
 ---
-title: Silver Medal at ACPC-Benin 2019
+title: First in Benin for Google Hashcode 2019
 
-event: ACPC-Benin 2019
-event_url: http://acpc.global/
+event: Google Hashcode
+event_url: https://codingcompetitions.withgoogle.com/hashcode/
 
 # location: Wowchemy HQ
 # address:
@@ -12,17 +12,17 @@ event_url: http://acpc.global/
 #  postcode: '94305'
 #  country: United States
 
-summary: Silver Medal at ACPC-Benin 2019
-abstract: ""
+summary: First in our country for Google Hashcode 2019
+abstract: "{{< staticref "media/hash_code_2019_judge_system.jpeg" "newtab" >}}"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-08-30T15:00:00Z"
+date: "2019-02-28T18:30:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2019-08-30T22:00:00Z"
+publishDate: "2019-03-10T00:30:00Z"
 
 authors: []
 tags: []
