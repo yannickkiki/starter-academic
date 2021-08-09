@@ -66,9 +66,11 @@ email: "seyive.kiki@gmail.com"
 highlight_name: false
 ---
 
-I'm Yannick KIKI and I'm a software engineer. I work as a Backend Developer at 
-[Trellix](https://www.trellix.io). You can explore this website to learn more about me. My portfolio is 
-available at [this link](https://www.notion.so/Portfolio-95cfc60c41a840baaf34e0b73adcef95) and you can reach me through 
+I'm Yannick KIKI and I'm a Software Engineer. I work as a Backend Developer at 
+[Trellix](https://www.trellix.io). You can explore this website to learn more about me. 
+My portfolio is 
+available at [this link](https://www.notion.so/Portfolio-95cfc60c41a840baaf34e0b73adcef95) 
+and you can reach me through 
 any channel defined in the [contact section](#contact).
 
 [comment]: <> (my {{< staticref "media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.)

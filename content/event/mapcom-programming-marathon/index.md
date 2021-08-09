@@ -13,7 +13,9 @@ event_url: http://www.mapcom-group.com/
 #  country: United States
 
 summary: First Prize at Mapcom Programming Marathon 2019.
-abstract: "With my team made up of Jocelin Hounon and Romaric Madegnan, we had the 
+abstract: "With my team made up of 
+[Jocelin Hounon](https://www.linkedin.com/in/jocelin-hounon-2008aa139) and
+[Romaric Madegnan](https://www.linkedin.com/in/romaric-madegnan-0842a1188), we had the 
 immense honor of winning the first prize in a programming competition organized by MAPCOM 
 to prepare for the ICPC competition. This competition took place over several days and 
 with teams from the West African sub-region. It was very tight but we were able to take 

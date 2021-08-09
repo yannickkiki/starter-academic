@@ -1,8 +1,8 @@
 ---
-title: Talk: Web Scraping of french-fongbe sentences translations
+title: Workshop at Epitech
 
-event: Learn with Trellix
-event_url: https://www.trellix.io
+event: Trellix Workshop
+event_url: https://www.trellix.io/
 
 # location: Wowchemy HQ
 # address:
@@ -12,19 +12,30 @@ event_url: https://www.trellix.io
 #  postcode: '94305'
 #  country: United States
 
-summary: We are going to write a Python script to browse the web to collect sentences in the Fongbe language and their French translation in order to create a French-fongbe Translator.
-abstract: "Dans cette session, nous allons écrire un script Python qui naviguera sur le Web afin d'en extraire de manière automatisée des phrases en langue Fongbe et leur traduction en français.<br>
-En effet, nous avons pour but de créer un traducteur Francais-Fongbe (un peu comme Google Translate), et pour ce faire, nous avons besoin de données bien structurées de phrases Fongbe et de leur traduction en Français pour entraîner notre système.<br>
-Notre rôle ici est donc de çoncevoir un outil qui nous permettra d'obtenir ces données."
+summary: Build an e-market app using React and Django
+abstract: "As part of the Learn With [Trellix](https://www.trellix.io/about) program, 
+[Wallis Kassiwin](https://www.linkedin.com/in/walliskassiwin/) and I led a workshop
+with the students of [Epitech-Bénin](https://epitech.bj/). This workshop consisted of 
+showing how one could 
+create a well-structured application from scratch. At the end of the session, we had 
+successfully implemented a basic e-market application with React for the front-end and 
+Django for the back-end.
+<br>
+![pic0](/images/wt0.jpeg)
+<br>
+![pic1](/images/wt1.jpeg)
+<br>
+![pic2](/images/wt2.jpeg)
+"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-02-10T15:00:00Z"
+date: "2021-03-23T17:00:00Z"
 # date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-03-24T01:00:00Z"
 
 authors: []
 tags: []
