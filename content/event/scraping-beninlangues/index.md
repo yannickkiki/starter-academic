@@ -1,5 +1,5 @@
 ---
-title: Talk: Web Scraping of french-fongbe sentences translations
+title: Talk about Web Scraping of french-fongbe sentences translations
 
 event: Learn with Trellix
 event_url: https://www.trellix.io
