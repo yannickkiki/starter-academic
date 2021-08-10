@@ -21,11 +21,11 @@ create a well-structured application from scratch. At the end of the session, we
 successfully implemented a basic e-market application with React for the front-end and 
 Django for the back-end.
 <br>
-![pic0](https://yannick.almeki.co/media/wt0.jpeg)
+![pic0](/media/wt0.jpeg)
 <br>
-![pic1](https://yannick.almeki.co/media/wt1.jpeg)
+![pic1](/media/wt1.jpeg)
 <br>
-![pic2](https://yannick.almeki.co/media/wt2.jpeg)
+![pic2](/media/wt2.jpeg)
 "
 
 # Talk start and end times.
