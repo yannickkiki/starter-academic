@@ -1,6 +1,7 @@
 ---
 title: How I built a simple ORM from scratch in Python
 subtitle: Build your own software systems to better understand existing ones, their strenghts and limits.
+reading_time: false
 
 # Summary for listings and search engines
 summary: Build your own ORM from scratch to better understand existing ones, their strenghts and limits.

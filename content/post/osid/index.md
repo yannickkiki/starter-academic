@@ -1,6 +1,7 @@
 ---
 title: Online Shoppers Intent
 subtitle: How I designed an artificial intelligence that can predict the purchase intention of users on e-commerce platforms.
+reading_time: false
 
 # Summary for listings and search engines
 summary: Design of an artificial intelligence that can predict the purchase intention of users on e-commerce platforms.
