@@ -69,8 +69,8 @@ highlight_name: false
 I'm Yannick KIKI and I'm a Software Engineer. I work as a Backend Developer at 
 [Trellix](https://www.trellix.io). You can explore this website to learn more about me. 
 My portfolio is available at 
-[this link](https://www.notion.so/Portfolio-95cfc60c41a840baaf34e0b73adcef95). 
-You can check my [LinkedIn profile](https://www.linkedin.com/in/yannick-kiki/) to see 
+[this link](https://www.notion.so/Portfolio-95cfc60c41a840baaf34e0b73adcef95), you can 
+check my [LinkedIn profile](https://www.linkedin.com/in/yannick-kiki/) to see 
 my resume and you can reach me through any 
 channel defined in the [contact section](#contact).
 I also have a [blog](/post) where I enjoy posting software 
